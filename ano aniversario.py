@@ -16,3 +16,5 @@ data_atual = date.today()
 age = (data_atual.year - b)
 # mostrando o resultado 
 print('Então neste ano tu terás ',age,' anos de idade. Parabéns uma boa idade.')
+# Fim do código
+
